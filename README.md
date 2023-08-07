@@ -1,7 +1,5 @@
 # auto_sendgrid
-This folder Utilize google api, python and sendgrid to automate the sending of emails
-# auto-sendgrid
-Python scripts to send emails through SendGrid
+This folder Utilize google api, python scripts and sendgrid to automate the sending of emails through SendGrid
 
 ### Setup emails and secrets
 - The `my_secrets.py` file is required to use this repository. It is not included in the git commits because it contains sensitive information. Copy or move this file to the root folder.
